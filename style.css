@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right, red, yellow);
+}
+main{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top:10%;
+}
+
+h1{
+    font: 700 3.5em Times;
+    color:rgba(0, 0, 0, 0.6);
+    letter-spacing: .5em;
+    text-transform: uppercase;
+}
+h2{
+    font: 900 1.3em Times;
+    padding-top: 2em;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+
+}

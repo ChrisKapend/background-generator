@@ -4,7 +4,7 @@
   "description": "exercise from the complete web developper",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify app.js > bundle.js"
   },
   "repository": {
     "type": "git",
