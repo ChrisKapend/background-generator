@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "exercise from the complete web developper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisKapend/background-generator.git"
+  },
+  "author": "chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisKapend/background-generator/issues"
+  },
+  "homepage": "https://github.com/ChrisKapend/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
